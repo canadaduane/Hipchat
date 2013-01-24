@@ -1,0 +1,4 @@
+Hipchat
+=======
+
+Hipchat LimeChat Theme
